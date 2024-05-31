@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+.paragraph{
+  font-family: "Noto Sans", sans-serif;
+}
+
+.paragraph.secondary{
+  font-family: "Noto Serif", serif;
+}
+
+.paragraph.tertiary{
+  letter-spacing: 2.5px;
+  color:orange;
+}
